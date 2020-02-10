@@ -1,0 +1,15 @@
+This folder contains 
+A-DataReaderScript.ipynb
+B-A copy of the datareader jupyter notebook pdf
+C-NBClass _Ngram.ipynb
+D-A copy of the classifier jupyter notebook pdf
+E-Assignment report
+
+Running instructions:
+1. Dowload the dataset from the link found in 1 and add to the mentioned path
+2. Open the jupyeter notebook A and run each cell 
+  OR 
+1. Dowload the csv from : https://drive.google.com/open?id=1NX_iemQoIgixyKncRAqWBQcfqvkupJpw
+2. and add it to the folder
+
+3. Open the jupyter notebook C. Run each cell
